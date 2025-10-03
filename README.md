@@ -1,5 +1,5 @@
 # Unike
-<h1 align="center">Hi 👋, I'm Yadam Pavani</h1>
+<h2 align="center">Hi 👋, I'm Yadam Pavani</h2>
 <h3 align="center">Fresher</h3>
 
 - 🔭 I’m currently studing on **b.tech 1st year**
